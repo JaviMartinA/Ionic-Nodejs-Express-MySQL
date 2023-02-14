@@ -1,0 +1,7 @@
+{
+  "name": "HitoIndividualDI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
